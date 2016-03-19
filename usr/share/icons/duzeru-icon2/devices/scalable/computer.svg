@@ -1,0 +1,13 @@
+<svg width="96" version="1.0" xmlns="http://www.w3.org/2000/svg" height="96">
+<g style="display:none" id="layer2">
+<rect width="86" x="5" y="7" rx="6" height="85" ry="6" style="opacity:.9;fill:url(#ButtonShadow);filter:url(#filter3174);stroke:none" id="rect3745"/>
+</g>
+<g style="stroke:none">
+<path style="fill:#3880d9" id="path3215" d="m 83.9375,74.2785 0,-62.2712 -71.9374,0 0,62.2712 71.9374,0 z"/>
+<path style="opacity:.7;fill:#0e367e" id="path3726" d="m 12,12 0,62.28125 71.9375,0 L 83.9375,12 12,12 Z m 3,3 66,0 0,56 -66,0 0,-56 z"/>
+<path id="path3174" d="M 11.3125,8 C 9.42859,8 8,9.4293755 8,11.3125 l 0,63.375 C 8,76.570624 9.42859,78 11.3125,78 l 73.375,0 C 86.57141,78 88,76.570624 88,74.6875 l 0,-63.375 C 88,9.4293754 86.57141,8 84.6875,8 L 11.3125,8 Z M 14,14 l 68,0 0,58 -68,0 0,-58 z"/>
+<path id="rect3535" d="m 33,74 c -1.662,0 -3,1.338 -3,3 h -3 v 1 c 1.656,0 3,1.344 3,3 v 2 c 0,1.662 1.338,3 3,3 h 30 c 1.662,0 3,-1.338 3,-3 v -2 c 0,-1.656 1.344,-3 3,-3 v -1 h -3 c 0,-1.662 -1.338,-3 -3,-3 h -30 z "/>
+<path style="fill:#7f7f7f" id="rect3483" d="m 14,72 68,0 0,1 -68,0 0,-1 z"/>
+<rect width="5" x="55.323669" y="81.23436" rx="1" ry="1" height="2" style="fill:#7fff2a" id="rect3485"/>
+</g>
+</svg>

@@ -1,0 +1,19 @@
+<svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
+<g id="layer1" transform="matrix(1.1470591,0,0,0.91864444,-3.5294177,1.9525339)">
+<path style="fill:#ecf0f1" id="rect4090" d="M 0,0 0,40 34,40 34,0.06980703 23,0 z" transform="translate(7,4)"/>
+</g>
+<g style="stroke:none">
+<g id="g3053" transform="matrix(0.46721841,0,0,0.55007109,12.78676,10.798381)">
+<g style="fill:#27ae60">
+<rect width="18" x="4" y="6.9996953" height="10" id="folderTab"/>
+<rect width="40" x="4" y="9" height="30" id="folderBackground"/>
+</g>
+<rect width="35.999992" x="6" y="10.9998" height="27.999756" style="fill:#fff" id="folderPaper"/>
+<rect width="43.999996" x="2" y="12.999983" height="28.000008" style="fill:#3498db" id="folderFront"/>
+</g>
+<rect width="16.819859" x="15.59007" y="16.849052" height="15.401856" style="fill:#fff" id="rect3849"/>
+<rect width="20.557608" x="13.721197" y="17.949295" height="15.401994" style="fill:#27ae60" id="rect3851"/>
+<text x="16.766447" y="28.332302" style="font-family:'Century Schoolbook L';text-align:start;word-spacing:0;line-height:125%;font-weight:bold;letter-spacing:0;font-size:10.20408154px" id="text3005" xml:space="preserve"><tspan x="16.766447" y="28.332302" style="fill:#fff" id="tspan3007">txt</tspan>
+</text>
+</g>
+</svg>

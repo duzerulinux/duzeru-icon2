@@ -1,0 +1,37 @@
+<svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs id="defs867">
+<clipPath id="clipPath3613">
+<rect width="84" x="6" y="6" rx="6" ry="6" height="84" style="fill:#fff;stroke:none" id="rect3615"/>
+</clipPath>
+<filter width="1.3839999" x="-0.192" y="-0.192" height="1.3839999" style="color-interpolation-filters:sRGB" id="filter3794">
+<feGaussianBlur stdDeviation="5.28" id="feGaussianBlur3796"/>
+</filter>
+<filter style="color-interpolation-filters:sRGB" id="filter3174">
+<feGaussianBlur stdDeviation="1.71" id="feGaussianBlur3176"/>
+</filter>
+<linearGradient gradientTransform="scale(1.0058652,0.994169)" id="ButtonShadow" y1="92.539597" y2="7.0165396" x1="45.447727" gradientUnits="userSpaceOnUse" x2="45.447727">
+<stop offset="0" id="stop3750"/>
+<stop offset="1" style="stop-opacity:.588" id="stop3752"/>
+</linearGradient>
+<linearGradient xlink:href="#linearGradient3737" id="linearGradient3613" y1="20.220806" y2="138.66119" x1="48" gradientUnits="userSpaceOnUse" x2="48"/>
+<linearGradient id="linearGradient3737">
+<stop offset="0" style="stop-color:#fff" id="stop3739"/>
+<stop offset="1" style="stop-color:#fff;stop-opacity:0" id="stop3741"/>
+</linearGradient>
+</defs>
+<g style="stroke:none" id="g3053" transform="matrix(1,0,0,1.1773318,0,-5.2823341)">
+<rect width="18" x="4" y="6.9996953" height="10" id="folderTab"/>
+<rect width="40" x="4" y="9" height="30" id="folderBackground"/>
+<rect width="35.999992" x="6" y="10.9998" height="27.999756" style="fill:#fff" id="folderPaper"/>
+<rect width="43.999996" x="2" y="12.999983" height="28.000008" style="fill:#3498db" id="folderFront"/>
+</g>
+<g style="display:none" id="g23" transform="translate(-120.01174,49.39746)">
+<g id="layer2">
+<rect width="86" x="5" y="7" rx="6" ry="6" height="85" style="opacity:.9;fill:url(#ButtonShadow);filter:url(#filter3174);stroke:none" id="rect3745"/>
+</g>
+<g id="layer5">
+<rect width="66" x="15" y="15" rx="12" ry="12" height="66" style="opacity:.1;fill:url(#linearGradient3613);filter:url(#filter3794);stroke:#fff;stroke-linecap:round;stroke-width:.5;clip-path:url(#clipPath3613)" id="rect3171"/>
+</g>
+</g>
+<path style="fill:#fff;fill-rule:evenodd;stroke:none" id="rect3232" d="m 21,14.2368 0,9 -9,0 0,6 9,0 0,9 6,0 0,-9 9,0 0,-6 -9,0 0,-9 -6,0 z "/>
+</svg>

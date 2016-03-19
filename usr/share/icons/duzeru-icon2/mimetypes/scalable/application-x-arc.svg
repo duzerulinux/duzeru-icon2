@@ -1,0 +1,27 @@
+<svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
+<path style="fill:#ef843f" id="path3001" d="m 4.5323,5.6497 0,36.6961 38.926,0 .074,-36.7458 -12.6677,.0497 z "/>
+<g style="stroke:#003bc3;stroke-linecap:square;fill-rule:evenodd;stroke-width:0">
+<rect width="5.9782653" x="20.995003" y="5.3807707" height="17.40531" style="fill:#34495e;stroke-miterlimit:2.013" id="shape0"/>
+<g style="fill:#ecf0f1">
+<rect width="3.58687" x="21.024063" y="5.385932" height="1.2884456" style="stroke-miterlimit:2.013" id="shape1"/>
+<g style="stroke-miterlimit:2">
+<rect width="3.58687" x="23.407209" y="6.6745081" height="1.2884456" id="shape2"/>
+<rect width="3.58687" x="21.024189" y="7.9652567" height="1.2884456" id="shape3"/>
+<rect width="3.58687" x="23.407463" y="9.2538414" height="1.2884456" id="shape4"/>
+<rect width="3.58687" x="21.020651" y="10.545826" height="1.2884456" id="shape5"/>
+<rect width="3.58687" x="23.403797" y="11.83437" height="1.2884456" id="shape6"/>
+<rect width="3.58687" x="21.020651" y="13.125094" height="1.2884456" id="shape7"/>
+<rect width="3.58687" x="23.403797" y="14.413719" height="1.2884456" id="shape8"/>
+<rect width="3.58687" x="20.996771" y="15.704525" height="1.2884456" id="shape9"/>
+<rect width="3.58687" x="23.379791" y="16.993071" height="1.2884456" id="shape10"/>
+<rect width="3.58687" x="20.996771" y="18.283875" height="1.2884456" id="shape11"/>
+<rect width="3.58687" x="23.380047" y="19.572418" height="1.2884456" id="shape12"/>
+<rect width="3.58687" x="20.993235" y="20.864435" height="1.2884456" id="shape13"/>
+<rect width="5.9692578" x="21.005615" y="22.258387" height="8.5872087" id="shape17"/>
+</g>
+</g>
+<rect width="3.4989555" x="22.263395" y="23.115692" height="2.0314646" style="fill:#2c3e50;stroke-miterlimit:2" id="shape18"/>
+</g>
+<text x="16.806641" y="41.535572" style="fill:#fff;font-family:Century Schoolbook L;stroke:none;word-spacing:0;line-height:125%;font-weight:500;letter-spacing:0;font-size:6px" id="text2999" xml:space="preserve"><tspan x="16.806641" y="41.535572" style="font-family:DejaVu Sans;font-weight:bold;font-size:8px" id="tspan3001">Arc</tspan>
+</text>
+</svg>

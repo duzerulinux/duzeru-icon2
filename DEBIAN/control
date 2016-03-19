@@ -1,0 +1,9 @@
+Package: duzeru-icon2
+Version: 2.0.0
+Section: icons
+Architecture: all
+Priority: optional
+Installed-Size: 13.400
+Maintainer: Claudio A. Silva (claudiosilva@duzeru.org)
+Homepage: http://www.duzeru.org
+Description: duzeru icon 2, um tema bonito e elegante para GNU/Linux

@@ -1,0 +1,10 @@
+<svg width="48" version="1.1" xmlns="http://www.w3.org/2000/svg" height="48">
+<g id="layer1" transform="matrix(1.1446382,0,0,0.91694783,-3.4765175,1.9901786)">
+<path style="fill:#ecf0f1" id="rect4090" d="M 0,0 0,40 34,40 34.071909,-0.07401129 23,0 z" transform="translate(7,4)"/>
+</g>
+<g style="stroke:none">
+<rect width="33.222034" x="7.3889832" y="12.435257" height="23.345213" style="fill:#2c3e50;fill-rule:evenodd" id="rect2996"/>
+<text x="11.649285" y="26.714886" style="font-family:KanjiStrokeOrders;word-spacing:0;line-height:125%;font-weight:500;letter-spacing:0;font-size:12px" id="text2986" xml:space="preserve"><tspan x="11.649285" y="26.714886" style="fill:#fff;font-family:Sans;font-weight:normal" id="tspan2988">x+y</tspan>
+</text>
+</g>
+</svg>
